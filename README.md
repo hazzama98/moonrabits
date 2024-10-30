@@ -1,6 +1,6 @@
 # Moonrabit Bot
 
-BOT GROUP LINK: [Link Bot](https://t.me/TsubasaRivalsBot/start?startapp=inviter_id-53739883144)
+BOT GROUP LINK: [Link Bot](https://t.me/mrbhouse_bot/moonrabbits?startapp=5373988314)
 
 TELEGRAM Channel LINK 1: [Link Channel Telegram](https://t.me/UxScript)
 
